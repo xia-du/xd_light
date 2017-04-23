@@ -1,0 +1,10 @@
+{
+  "appName": {
+    "message": "XD Light",
+    "description": "The name of the application"
+  },
+  "appDescription": {
+    "message": "Control Yeelight with IFTTT. Adjust the color for different page on http://xiadu.me",
+    "description": "The description of the application"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "name": "xd-light",
+  "private": true,
+  "version": "0.0.0",
+  "dependencies": {
+    "request": "^2.81.1"
+  },
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.2.0"
+  }
+}
